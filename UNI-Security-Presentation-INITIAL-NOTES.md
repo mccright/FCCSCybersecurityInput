@@ -1,5 +1,5 @@
 ﻿
-###If the presentation were this week,
+### If the presentation were this week,
  I would use the following cybersecurity incidents as an introduction (they need to be 'current' and there should be no trouble finding 'current' incidents whenever the session is presented):  
 
  * Last Thursday Microsoft released security updates for some out-of-support systems to fix a bug that could be weaponized as a worm if exploited.
