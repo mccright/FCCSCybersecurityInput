@@ -24,202 +24,202 @@ START "DZone surey of 50 security professionals."
 
 SUMMARY:  
 -------  
-INVENTORY. We cannot understand our risk load until we have accurate data about the infrastructure and processes that represent our organizations.  This is sometimes also called "visibility," "know your environment," or "know your data."  
-EVENT TRANSPARENCY. Organizations need access to and an understanding of inventory, attack vectors, and security events to inform security decision-making.  Simply responding to successful attack is not a sustainable goal. 
-CONTEXTUAL AWARENESS. Effective threat hunting and incident identification/triage/response require events-in-context requires application, infrastructure & operations documentation, modern SIM integration, as well as real-time access to data, logging systems, and penetration test & code assessment results.  Contextual awareness is also essential for effective risk management at application/system architecture, design, and development time. 
-HARDENING.  Our attack surface needs to resist the activities of all hostile actors.
-PRIORITIZE. All organizations have more risks than can be addressed at any given time.  Most organizations are in the risk-taking business.
+ * INVENTORY. We cannot understand our risk load until we have accurate data about the infrastructure and processes that represent our organizations.  This is sometimes also called "visibility," "know your environment," or "know your data."    
+ * EVENT TRANSPARENCY. Organizations need access to and an understanding of inventory, attack vectors, and security events to inform security decision-making.  Simply responding to successful attack is not a sustainable goal.   
+ * CONTEXTUAL AWARENESS. Effective threat hunting and incident identification/triage/response require events-in-context requires application, infrastructure & operations documentation, modern SIM integration, as well as real-time access to data, logging systems, and penetration test & code assessment results.  Contextual awareness is also essential for effective risk management at application/system architecture, design, and development time.   
+ * HARDENING.  Our attack surface needs to resist the activities of all hostile actors.  
+ * PRIORITIZE. All organizations have more risks than can be addressed at any given time.  Most organizations are in the risk-taking business.  
 
 SUPPORTING DISCUSSION:
 ---------------------
 ### INVENTORY  
 We cannot understand our risk load until we have accurate data about the infrastructure and processes that represent our organizations.  This is sometimes also called "visibility," "know your environment," or "know your data," and addresses questions about who, what, and where.  
 a. Comprehensive Inventory. Organizations evolve and expand.  'Inventory' needs to detail the attack surface throughout this evolution.
-### EVENT TRANSPARENCY ###. Organizations need access to and an understanding of inventory, attack vectors, and security events to inform security decision-making.  Simply responding to successful attack is not a sustainable goal.  Event transparency enhances addressing questions about who, what, where and when.  
+### EVENT TRANSPARENCY  
+Organizations need access to and an understanding of inventory, attack vectors, and security events to inform security decision-making.  Simply responding to successful attack is not a sustainable goal.  Event transparency enhances addressing questions about who, what, where and when.  
 a. Monitoring, which requires decomposing & correlation of high-velocity event streams into "relevant" events and some level of antomated analysis.  Events from application and infrastructure changes are as important as attack indicators.  
 a. Event data needs to drive evolution and optimization of your risk management strategies, tooling, and techniques.  
-### CONTEXTUAL AWARENESS ###. Effective threat hunting and incident identification/triage/response require events-in-context.  This requires application, infrastructure & operations documentation, modern SIM integration, as well as real-time access to data, logging systems, and penetration test & code assessment results.  Contextual awareness is also essential for effective risk management at application/system architecture, design, and development time.  Contextual awareness enhances addressing questions about who, what, where, when, and why.  
+### CONTEXTUAL AWARENESS  
+Effective threat hunting and incident identification/triage/response require events-in-context.  This requires application, infrastructure & operations documentation, modern SIM integration, as well as real-time access to data, logging systems, and penetration test & code assessment results.  Contextual awareness is also essential for effective risk management at application/system architecture, design, and development time.  Contextual awareness enhances addressing questions about who, what, where, when, and why.  
 a. Mature monitoring capabilities integrate events into risk-relevant collections that enhance our understanding of event context.  
 a. Effective evolution and optimization of our risk management capabilities require we understand events in context.  
-### HARDENING ###.  Our attack surface needs to resist the activities of all hostile actors.  
+### HARDENING  
+Our attack surface needs to resist the activities of all hostile actors.  
 a. The implementation of our applications, infrastructure & operations need to align one or another of the mature best practice frameworks (OWASP, WASC, etc.).
 b. The increasing complexity and diversity of our business infrastructure ecosystem drives the criticality of hardening all aspects of our applications, infrastructure & operations.  
 c. Attack resistance needs to exist at runtime, in real-time, all-the-time.  We need to be able to detect and resist vulnerabilities before they enter any hostile environment (production, test, or other).  This can enhance our risk posture in the face of zero-day exploits.
 d. Our efforts need to confront the fact that attacks evolve.  One foundational competency for dealing with this is to build and maintain the capability of resolving vulnerabilities quickly.  Only mature architectural, design, and implementation practices have a hope of achieving this goal in our increasingly distributed infrastructure and operations.  
-
 e. Attack resistance requires embedding risk management practices throughout every relevant software development lifecycle.  
-### PRIORITIZE ###. All organizations have more risks than can be addressed at any given time.  Most organizations are in the risk-taking business.  Efficient and effective risk and work prioritization is a foundational competency.  
+### PRIORITIZE  
+All organizations have more risks than can be addressed at any given time.  Most organizations are in the risk-taking business.  Efficient and effective risk and work prioritization is a foundational competency.  
 a. Risk management priorities are influenced by industry and culture.  
 b. Scarcity and trade-offs are a constant reality.  Establish and maintain processes to work through them.  
 c. Threat modelling requires "inventory," "event transparency," and "contextual awareness"
 d. "Inventory," "event transparency," and "contextual awareness" are essential to effective risk management prioritization, which feeds "hardening" efforts.  
 
-HARDENING involves a lot more than we initially discussed.
-Identification/Access Control.
-Planning/Have a Plan.
-Defense in Depth. 
-Education.
+HARDENING involves a lot more than we initially discussed.  
+Identification/Access Control.  
+Planning/Have a Plan.  
+Defense in Depth.   
+Education.  
 
-Organizations are in a race to create and launch revolutionary applications and services to differentiate themselves from the competition and deliver an exceptional customer experience. Fortunately, the adoption of transformative technologies – like DevOps, artificial intelligence, machine learning and robotic process automation – make this possible. These technologies, however, also expand organizations’ attack surfaces, creating heightened levels of risk that attackers are eager to exploit. Organizations like Uber may have grown to be billion-dollar behemoths by embracing innovations like DevOps to dramatically scale and growth, but this same innovation was the cause of the massive data breach at Uber that cost the company more than $150 million in settlement fees and fines. 
+Organizations are in a race to create and launch revolutionary applications and services to differentiate themselves from the competition and deliver an exceptional customer experience. Fortunately, the adoption of transformative technologies – like DevOps, artificial intelligence, machine learning and robotic process automation – make this possible. These technologies, however, also expand organizations’ attack surfaces, creating heightened levels of risk that attackers are eager to exploit. Organizations like Uber may have grown to be billion-dollar behemoths by embracing innovations like DevOps to dramatically scale and growth, but this same innovation was the cause of the massive data breach at Uber that cost the company more than $150 million in settlement fees and fines.   
 
-Privileged and administrative accounts in cloud environments need to be managed, protected and monitored just like privileged accounts in traditional datacenter. Organizations should establish a single control point to manage the credentials of cloud administrators, developers and other users accessing the management consoles and portals of the various cloud platforms.
+Privileged and administrative accounts in cloud environments need to be managed, protected and monitored just like privileged accounts in traditional datacenter. Organizations should establish a single control point to manage the credentials of cloud administrators, developers and other users accessing the management consoles and portals of the various cloud platforms.  
 
-Ever-evolving threats.
+Ever-evolving threats.  
 
-'''END DZone surey of 50 security professionals.
-'''
-
+END DZone surey of 50 security professionals.  
 
 
+Why should I care?  
+-----------------
+ * Because these types of costly & intrusive incidents happen every day, and each is associated with attacks from one or another hostile actors.  For many hostile actors, this activity is just 'business.'  
+ * Hostile actors have a range of motivations, including, but not limited to: money/profit, espionage (industrial, nation-state, or other), blackmail, destruction (data, or capability), exploitation, revenge, political gains, hactivism, terrorism & more.  
+ * Hostile actors have a range of personas, including, but not limited to: nation-state espionage, non-nation-state espionage, cyber-criminal (targeted), cyber-criminal (broad-based), insider, hacktivist, terrorist, nuisance.  
+ * Also, the systems used to deliver the 'stuff' and services that we all consider part of our daily lives continue to grow more complex and interdependent.  
+ * That complexity and interdependency results in more attack surface.  That increasing attack surface provides adversaries expanding opportunities to exploit vulnerabilities.  Common design & implementation practices continue to produce weaknesses and deficiencies in the components of the underlying systems that we build and deploy.  
+ * Much effort goes into reactive security measures like intrusion or data loss detection and response capabilities.  
+ * Measures like these fail to address the foundational risk management challenges that require a holistic approach based on sound systems security engineering techniques and security design principles.  
+ * A more holistic approach can make our systems more penetration-resistant; capable of limiting the damage from disruptions, modification, breach, 'injury,' and other threats. 
+ * It can also help make our systems and services more resilient -- more able to continue support of critical missions and business functions after they are compromised.  
+"Rethinking Cybersecurity from the Inside Out."  
+By: Ron Ross, November 15, 2016.   
+[https://www.nist.gov/blogs/taking-measure/rethinking-cybersecurity-inside-out](https://www.nist.gov/blogs/taking-measure/rethinking-cybersecurity-inside-out)  
+
+What might that kind of systems engineering look like?  
+-----------------------------------------------------
+**Strategic Cyber Resiliency Design Principles** [page 17]  
+Focus on common critical assets.   
+Support agility and architect for adaptability.  
+Reduce attack surfaces.   
+Assume compromised resources.  
+Expect adversaries to evolve.  
+
+**Structural Design Principles for Cyber Resiliency** [page 22]  
+Limit the need for trust   
+Control visibility and use  
+Contain and exclude behaviors  
+Layer and partition defenses  
+Plan and manage diversity  
+Maintain redundancy  
+Make resources location-versatile  
+Leverage health and status data  
+Maintain situational awareness  
+Manage resources (risk-) adaptively  
+Maximize transience; minimize persistence  
+Determine ongoing trustworthiness  
+Change or disrupt the attack surface  
+Make unpredictability and deception user-transparent  
+
+"Cyber Resiliency Design Principles."  
+**Cyber Resiliency Goals** [page 62]   
+Anticipate  
+Withstand  
+Recovery  
+Evolve  
+
+**Cyber Resiliency Objectives** [page 62]  
+Understand  
+Prepare  
+Prevent / Avoid  
+Continue  
+Constrain  
+Reconstitute  
+Transform  
+Re-architect  
+
+**Cyber Resiliency Techniques** [page 62]  
+Adaptive response  
+Analytic monitoring  
+Deception  
+Diversity  
+Dynamic positioning  
+Non-persistence  
+Privilege restriction  
+Segmentation / isolation  
+Coordinated defense  
+Dynamic representation  
+Realignment  
+Redundancy  
+Substantiated integrity  
+"Cyber Resiliency Design Principles" MITRE Technical Report, By Deborah Bodeau & Richard Graubart, January 2017  
+[https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf](https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)  
 
 
+The ISO 27000 includes a model for thinking about cybersecurity:  
+QUOTE:  
+Organizations of all types and sizes:  
+ a) collect, process, store, and transmit information;  
+ b) recognize that information, and related processes, systems, networks and people are important assets for achieving organization objectives;  
+ c) face a range of risks that can affect the functioning of assets; and  
+ d) address their perceived risk exposure by implementing information security controls.  
 
+All information held and processed by an organization is subject to threats of attack, error, nature (for example, flood or fire), etc., and is subject to vulnerabilities inherent in its use. The term information security is generally based on information being considered as an asset which has a value requiring appropriate protection, for example, against the loss of availability, confidentiality and integrity. Enabling accurate and complete information to be available in a timely manner to those with an authorized need is a catalyst for business efficiency.  
+Protecting information assets through defining, achieving, maintaining, and improving information security effectively is essential to enable an organization to achieve its objectives, and maintain and enhance its legal compliance and image. These coordinated activities directing the implementation of suitable controls and treating unacceptable information security risks are generally known as elements of information security management.  
+As information security risks and the effectiveness of controls change depending on shifting circumstances, organizations need to:  
+ a) monitor and evaluate the effectiveness of implemented controls and procedures;  
+ b) identify emerging risks to be treated; and  
+ c) select, implement and improve appropriate controls as needed.  
 
-
-
-Why should I care?
-Because these types of costly & intrusive incidents happen every day, and each is associated with attacks from one or another hostile actors.  For many hostile actors, this activity is just 'business.'  
-Hostile actors have a range of motivations, including, but not limited to: money/profit, espionage (industrial, nation-state, or other), blackmail, destruction (data, or capability), exploitation, revenge, political gains, hactivism, terrorism & more.
-Hostile actors have a range of personas, including, but not limited to: nation-state espionage, non-nation-state espionage, cyber-criminal (targeted), cyber-criminal (broad-based), insider, hacktivist, terrorist, nuisance.
-Also, the systems used to deliver the 'stuff' and services that we all consider part of our daily lives continue to grow more complex and interdependent.
-That complexity and interdependency results in more attack surface.  That increasing attack surface provides adversaries expanding opportunities to exploit vulnerabilities.  Common design & implementation practices continue to produce weaknesses and deficiencies in the components of the underlying systems that we build and deploy.
-Much effort goes into reactive security measures like intrusion or data loss detection and response capabilities.  
-Measures like these fail to address the foundational risk management challenges that require a holistic approach based on sound systems security engineering techniques and security design principles. 
-A more holistic approach can make our systems more penetration-resistant; capable of limiting the damage from disruptions, modification, breach, 'injury,' and other threats. 
-It can also help make our systems and services more resilient -- more able to continue support of critical missions and business functions after they are compromised.  
-"Rethinking Cybersecurity from the Inside Out."
-By: Ron Ross, November 15, 2016. 
-https://www.nist.gov/blogs/taking-measure/rethinking-cybersecurity-inside-out
-
-What might that kind of systems engineering look like?
-**Strategic Cyber Resiliency Design Principles** [page 17]
-Focus on common critical assets. 
-Support agility and architect for adaptability.
-Reduce attack surfaces. 
-Assume compromised resources.
-Expect adversaries to evolve.
-**Structural Design Principles for Cyber Resiliency** [page 22]
-Limit the need for trust 
-Control visibility and use
-Contain and exclude behaviors
-Layer and partition defenses
-Plan and manage diversity
-Maintain redundancy
-Make resources location-versatile
-Leverage health and status data
-Maintain situational awareness
-Manage resources (risk-) adaptively
-Maximize transience; minimize persistence
-Determine ongoing trustworthiness
-Change or disrupt the attack surface
-Make unpredictability and deception user-transparent
-"Cyber Resiliency Design Principles."
-**Cyber Resiliency Goals** [page 62]
-Anticipate
-Withstand
-Recovery
-Evolve
-**Cyber Resiliency Objectives** [page 62]
-Understand
-Prepare
-Prevent / Avoid
-Continue
-Constrain
-Reconstitute
-Transform
-Re-architect
-**Cyber Resiliency Techniques** [page 62]
-Adaptive response
-Analytic monitoring
-Deception
-Diversity
-Dynamic positioning
-Non-persistence
-Privilege restriction
-Segmentation / isolation
-Coordinated defense
-Dynamic representation
-Realignment
-Redundancy
-Substantiated integrity
-"Cyber Resiliency Design Principles" MITRE Technical Report, By Deborah Bodeau & Richard Graubart, January 2017
-https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf
-
-
-The ISO 27000 includes a model for thinking about cybersecurity:
-QUOTE: 
-Organizations of all types and sizes:
-a) collect, process, store, and transmit information;
-b) recognize that information, and related processes, systems, networks and people are important assets for achieving organization objectives;
-c) face a range of risks that can affect the functioning of assets; and
-d) address their perceived risk exposure by implementing information security controls.
-All information held and processed by an organization is subject to threats of attack, error, nature (for example, flood or fire), etc., and is subject to vulnerabilities inherent in its use. The term information security is generally based on information being considered as an asset which has a value requiring appropriate protection, for example, against the loss of availability, confidentiality and integrity. Enabling accurate and complete information to be available in a timely manner to those with an authorized need is a catalyst for business efficiency.
-Protecting information assets through defining, achieving, maintaining, and improving information security effectively is essential to enable an organization to achieve its objectives, and maintain and enhance its legal compliance and image. These coordinated activities directing the implementation of suitable controls and treating unacceptable information security risks are generally known as elements of information security management.
-As information security risks and the effectiveness of controls change depending on shifting circumstances, organizations need to:
-a) monitor and evaluate the effectiveness of implemented controls and procedures;
-b) identify emerging risks to be treated; and
-c) select, implement and improve appropriate controls as needed.
 To interrelate and coordinate such information security activities, each organization needs to establish its policy and objectives for information security and achieve those objectives effectively by using a management system.
-END QUOTE: 
-From: ISO 27000 Overview & Vocabulary 5th ed. 2018-02., page 11.
-https://standards.iso.org/ittf/PubliclyAvailableStandards/c073906_ISO_IEC_27000_2018_E.zip
+END QUOTE:  
+From: ISO 27000 Overview & Vocabulary 5th ed. 2018-02., page 11.  
+[https://standards.iso.org/ittf/PubliclyAvailableStandards/c073906_ISO_IEC_27000_2018_E.zip](https://standards.iso.org/ittf/PubliclyAvailableStandards/c073906_ISO_IEC_27000_2018_E.zip)  
 
-None of us are likely to be in the 'risk elimination' business.  That is not an economic goal.
-Instead, we implement processes to identify risks and processes/tools to modify risks.
-We might chose to:
-— avoid a risk by deciding not to start or continue with the activity that gives rise to the risk;
-— take or increase our risk in order to pursue a given opportunity;
-— remove a risk source;
-— alter the likelihood of a given risk;
-— modify the consequences of a given risk;
-— share the risk with another party or parties (think contracts and risk underwriting/insurance);
-— assume the risk (ensuring that decision-makers are making an informed choice).
-From: ISO 27000 Overview & Vocabulary 5th ed. 2018-02., page 10.
-https://standards.iso.org/ittf/PubliclyAvailableStandards/c073906_ISO_IEC_27000_2018_E.zip
+None of us are likely to be in the 'risk elimination' business.  That is not an economic goal.  
+Instead, we implement processes to identify risks and processes/tools to modify risks.  
+We might chose to:  
+— avoid a risk by deciding not to start or continue with the activity that gives rise to the risk;  
+— take or increase our risk in order to pursue a given opportunity;  
+— remove a risk source;  
+— alter the likelihood of a given risk;  
+— modify the consequences of a given risk;  
+— share the risk with another party or parties (think contracts and risk underwriting/insurance);  
+— assume the risk (ensuring that decision-makers are making an informed choice).  
+From: ISO 27000 Overview & Vocabulary 5th ed. 2018-02., page 10.  
+[https://standards.iso.org/ittf/PubliclyAvailableStandards/c073906_ISO_IEC_27000_2018_E.zip](https://standards.iso.org/ittf/PubliclyAvailableStandards/c073906_ISO_IEC_27000_2018_E.zip)  
 
-Another approach to thinking about your risks:
-Risk Response
--------------
-Risk acceptance
-Risk avoidance
-Risk mitigation
-  Reduce threat (likelihood of occurence)
-  Reduce vulnerability (likelihood of consequence)
-  Seek specific effects on adversaries
-Risk Sharing
-Risk Transfer
-[page 42]
-"Cyber Resiliency Design Principles" MITRE Technical Report, By Deborah Bodeau & Richard Graubart, January 2017
-https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf
+## Another approach to thinking about your risks:
+Risk Response  
+-------------  
+Risk acceptance  
+Risk avoidance  
+Risk mitigation  
+  Reduce threat (likelihood of occurence)  
+  Reduce vulnerability (likelihood of consequence)  
+  Seek specific effects on adversaries  
+Risk Sharing  
+Risk Transfer  
+[page 42]  
+"Cyber Resiliency Design Principles" MITRE Technical Report, By Deborah Bodeau & Richard Graubart, January 2017  
+[https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf](https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)  
 
 
 Why is it important to manage risk well?  At the highest level:
-• Your customers rely on it.
-• Your shareholders/owners expect it.
-• Your regulators demand it.  Many industries are regulated by one or more authorities.  Effective risk management is core to many regulatory contexts.
-• Rating agencies look for it.  If your organization borrows money, this matters to you.  Better ratings generally result in more favorable terms, including lower interest payments.
+ * Your customers rely on it.  
+ * Your shareholders/owners expect it.  
+ * Your regulators demand it.  Many industries are regulated by one or more authorities.  Effective risk management is core to many regulatory contexts.  
+ * Rating agencies look for it.  If your organization borrows money, this matters to you.  Better ratings generally result in more favorable terms, including lower interest payments.  
 
 
 
-What can you do?
+What can you do?  
+---------------  
+Threat Intelligence  
+Threat hunting  
+Red Team Exercises  
+Red-vs-Blue Team Exercises  
 
-Threat Intelligence
-Threat hunting
-
-Red Team Exercises
-Red-vs-Blue Team Exercises
-
-
-
-
-Frameworks to help you evolve your cybersecurity program:
-Financial Services Sector "Cybersecurity Profile:" https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile [280 "diagnostic statements"]
-PCI DSS - Payment Card Industry Data Security Standard: https://www.pcisecuritystandards.org/pci_security/standards_overview and https://www.pcisecuritystandards.org/document_library
-ISO 27001/27002 (paywall) ISO/IEC 27000 family - Information security management systems: https://www.iso.org/isoiec-27001-information-security.html
-CIS Critical Security Controls - Center for Internet Security Best Practices (Controls & Benchmarks): https://www.cisecurity.org/cybersecurity-best-practices/
-NIST Framework for Improving Critical Infrastructure Security: https://www.nist.gov/publications/framework-improving-critical-infrastructure-cybersecurity-version-11
-(employs NIST SP 800-53 rev. 4: 1,683 specific Controls organized into 257 Control Sections, rolled up into 17 Control Families)
-OASIS
+Frameworks to help you evolve your cybersecurity program:  
+--------------------------------------------------------
+ * Financial Services Sector "Cybersecurity Profile:" [https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile](https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile) 280 "diagnostic statements"  
+ * PCI DSS - Payment Card Industry Data Security Standard: [https://www.pcisecuritystandards.org/pci_security/standards_overview and https://www.pcisecuritystandards.org/document_library](https://www.pcisecuritystandards.org/pci_security/standards_overview and https://www.pcisecuritystandards.org/document_library)  
+ * ISO 27001/27002 (paywall) ISO/IEC 27000 family - Information security management systems: [https://www.iso.org/isoiec-27001-information-security.html](https://www.iso.org/isoiec-27001-information-security.html)  
+ * CIS Critical Security Controls - Center for Internet Security Best Practices (Controls & Benchmarks): [https://www.cisecurity.org/cybersecurity-best-practices/](https://www.cisecurity.org/cybersecurity-best-practices/)  
+ * NIST Framework for Improving Critical Infrastructure Security: [https://www.nist.gov/publications/framework-improving-critical-infrastructure-cybersecurity-version-11](https://www.nist.gov/publications/framework-improving-critical-infrastructure-cybersecurity-version-11)  
+ (employs NIST SP 800-53 rev. 4: 1,683 specific Controls organized into 257 Control Sections, rolled up into 17 Control Families)  
+ * OASIS  
 
 
 EXAMPLE - NIST 800-53 Control Families:
