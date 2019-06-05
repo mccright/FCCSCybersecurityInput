@@ -14,16 +14,16 @@
  * Last Tuesday, the more than 1.5 billion WhatsApp users learned that the application's end-to-end encryption failed to stop attacks against its audio call features that allowed attackers to install malware & conduct surveillance on exploited users -- even when they did not even answer the attacker's call.
  [https://www.wired.co.uk/article/whats-app-hacked](https://www.wired.co.uk/article/whats-app-hacked)  
 
-FROM  #### "Most Important Security Elements." ####  
-https://dzone.com/articles/most-important-security-elements-part-1
-https://dzone.com/articles/most-important-security-elements-part-2
-Visibility, mitigation, prioritization, and encryption — these are the most important elements to security right now. 
-By Tom Smith, May. 24, 2019
+#### FROM: "Most Important Security Elements."   
+[https://dzone.com/articles/most-important-security-elements-part-1](https://dzone.com/articles/most-important-security-elements-part-1)
+[https://dzone.com/articles/most-important-security-elements-part-2](https://dzone.com/articles/most-important-security-elements-part-2)
+Visibility, mitigation, prioritization, and encryption — these are the most important elements to security right now.  
+By Tom Smith, May. 24, 2019  
 
-'''START DZone surey of 50 security professionals.
-'''
-SUMMARY:
--------
+START "DZone surey of 50 security professionals."  
+
+SUMMARY:  
+-------  
 INVENTORY. We cannot understand our risk load until we have accurate data about the infrastructure and processes that represent our organizations.  This is sometimes also called "visibility," "know your environment," or "know your data."  
 EVENT TRANSPARENCY. Organizations need access to and an understanding of inventory, attack vectors, and security events to inform security decision-making.  Simply responding to successful attack is not a sustainable goal. 
 CONTEXTUAL AWARENESS. Effective threat hunting and incident identification/triage/response require events-in-context requires application, infrastructure & operations documentation, modern SIM integration, as well as real-time access to data, logging systems, and penetration test & code assessment results.  Contextual awareness is also essential for effective risk management at application/system architecture, design, and development time. 
@@ -32,7 +32,8 @@ PRIORITIZE. All organizations have more risks than can be addressed at any given
 
 SUPPORTING DISCUSSION:
 ---------------------
-### INVENTORY ###. We cannot understand our risk load until we have accurate data about the infrastructure and processes that represent our organizations.  This is sometimes also called "visibility," "know your environment," or "know your data," and addresses questions about who, what, and where.  
+### INVENTORY  
+We cannot understand our risk load until we have accurate data about the infrastructure and processes that represent our organizations.  This is sometimes also called "visibility," "know your environment," or "know your data," and addresses questions about who, what, and where.  
 a. Comprehensive Inventory. Organizations evolve and expand.  'Inventory' needs to detail the attack surface throughout this evolution.
 ### EVENT TRANSPARENCY ###. Organizations need access to and an understanding of inventory, attack vectors, and security events to inform security decision-making.  Simply responding to successful attack is not a sustainable goal.  Event transparency enhances addressing questions about who, what, where and when.  
 a. Monitoring, which requires decomposing & correlation of high-velocity event streams into "relevant" events and some level of antomated analysis.  Events from application and infrastructure changes are as important as attack indicators.  
@@ -329,27 +330,27 @@ FRS has evolved their processes to help compensate for the difficulties imposed 
  * How would you add attack resistance and attack awareness (alerting & alarming) to address the most important of the vulnerabilities in the scenario above.
 
 
-### One Model FUBAR (many are possible):
+### One Model FUBAR (many are possible):  
 -----------------------------------  
-Internet-interactions are mediated by layers of abstraction, technology, distance, time, automation and more.  
-This adds complexity and uncertainty to the FRS participant on-boarding processes.  
-These issues are exaggerated when dealing with one of those 'dormant' retirement accounts (the ones waiting for a disengaged individual to on-board and use FRS systems).  
+ * Internet-interactions are mediated by layers of abstraction, technology, distance, time, automation and more.  
+ * This adds complexity and uncertainty to the FRS participant on-boarding processes.  
+ * These issues are exaggerated when dealing with one of those 'dormant' retirement accounts (the ones waiting for a disengaged individual to on-board and use FRS systems).  
 
-In this scenario, assume that a hostile actor decides to attack 'unused' or 'dormant' retirement accounts.  
-Their goal is to extract as many financial assets and as much personal data as is economical while assuming minimum risk.  
-They engage in a certain amount of reconnosance, learning that FGFG web login infrastructure makes it easy to determine whether an individual associated with an FRS account has already worked through their on-boading process, or not.  
-They explore the FRS site to document the new Retirement customer on-boarding process.  In doing so, they learn the types of information that new Retirement customers are asked to provide during on-boarding.  
-Knowing the data they need, they buy FRS customer lists and associated demographic data from data brokers.  This is not a big investment.  
-They hire contractors in a South East Asian country to 'quality check' the list against FRS systems -- looking for 'useful' accounts, accounts that are not yet associated with a validated identity.  The contractors return a vetted subset of the original list.  
-They hire contractors in another Asia Pacific country to 'on-board' the available accounts using the purchased data -- establishing an identity now under the control of the attacker.  The contractors return a subset of the previous list containing 'working' username/password pairs, security question/answer pairs, and associated account balances.  Because of data inaccuracies & inconsistencies this on-boarding was not always straight foreward and the contractors sometimes had to call FRS 1-800 numbers for on-boarding help.  
-They slowly explore and document the account functionality for given employer groups -- learning that some have different business rules in place for address changes, bank routing number changes, loan amounts, and impediments to making 'whole account' withdrawls.  
-Finally, they quickly order a wide range of loan amounts, one against each account, requesting a check to be sent to an address input in the request form.  
-FRS completed a number of the hostile actor's transactions before one of the 'dormant' retirement account holders called an FRS 1-800 number asking why they received a 'password change' letter in the mail -- which led to an investigation and identification of unauthorized activity on the account (and others).  
-The hostile actors received enough of the requested checks to result in what they considered a useful net profit for the exercise.  
-FRS replaced the lost funds in all the 'hacked' accounts.  
-FRS conducted a thorough investigation of what happened (which was technically challenging because of 'unfriendly' logging practices and a lack of relevant analysis automation).  
-FRS reported the breaches to all relevant parties (individuals, employers, regulators, etc.).  
-FRS employer on-boarding, employee on-boarding, and identity verification processes were re-engineered.  
+ * In this scenario, assume that a hostile actor decides to attack 'unused' or 'dormant' retirement accounts.  
+ * Their goal is to extract as many financial assets and as much personal data as is economical while assuming minimum risk.  
+ * They engage in a certain amount of reconnosance, learning that FGFG web login infrastructure makes it easy to determine whether an individual associated with an FRS account has already worked through their on-boading process, or not.  
+ * They explore the FRS site to document the new Retirement customer on-boarding process.  In doing so, they learn the types of information that new Retirement customers are asked to provide during on-boarding.  
+ * Knowing the data they need, they buy FRS customer lists and associated demographic data from data brokers.  This is not a big investment.  
+ * They hire contractors in a South East Asian country to 'quality check' the list against FRS systems -- looking for 'useful' accounts, accounts that are not yet associated with a validated identity.  The contractors return a vetted subset of the original list.  
+ * They hire contractors in another Asia Pacific country to 'on-board' the available accounts using the purchased data -- establishing an identity now under the control of the attacker.  The contractors return a subset of the previous list containing 'working' username/password pairs, security question/answer pairs, and associated account balances.  Because of data inaccuracies & inconsistencies this on-boarding was not always straight foreward and the contractors sometimes had to call FRS 1-800 numbers for on-boarding help.  
+ * They slowly explore and document the account functionality for given employer groups -- learning that some have different business rules in place for address changes, bank routing number changes, loan amounts, and impediments to making 'whole account' withdrawls.  
+ * Finally, they quickly order a wide range of loan amounts, one against each account, requesting a check to be sent to an address input in the request form.  
+ * FRS completed a number of the hostile actor's transactions before one of the 'dormant' retirement account holders called an FRS 1-800 number asking why they received a 'password change' letter in the mail -- which led to an investigation and identification of unauthorized activity on the account (and others).  
+ * The hostile actors received enough of the requested checks to result in what they considered a useful net profit for the exercise.  
+ * FRS replaced the lost funds in all the 'hacked' accounts.  
+ * FRS conducted a thorough investigation of what happened (which was technically challenging because of 'unfriendly' logging practices and a lack of relevant analysis automation).  
+ * FRS reported the breaches to all relevant parties (individuals, employers, regulators, etc.).  
+ * FRS employer on-boarding, employee on-boarding, and identity verification processes were re-engineered.  
 
 ### NOTE:  
 Other common approaches might have incorporated spearphishing (with links or attachments), drive-by compromise, 'hacking' one or more of the FRS web or mobile applications, compromising another FGFG subsidiary application and then exploiting assumptions about trust between different subsidiaries' applications...  
@@ -413,23 +414,23 @@ In the context of your course about foundational concepts of computer science
 
 (Social, ethical, and legal issues)  
 Why is it important to manage risk well?  
- * Our customers rely on it.
- * Our shareholders expect it.
- * Regulators demand it.
- * Rating agencies look for it.
+ * Our customers rely on it.  
+ * Our shareholders expect it.  
+ * Regulators demand it.  
+ * Rating agencies look for it.  
 
 
-security (or a closely related term, application security) is about ensuring that software does not have vulnerabilities. This is different than "security software" (like a firewall, or antivirus, or using a crypto protocol). A security feature can be one way to tackle a security risk in software, but security software also needs to be secure.
+security (or a closely related term, application security) is about ensuring that software does not have vulnerabilities. This is different than "security software" (like a firewall, or antivirus, or using a crypto protocol). A security feature can be one way to tackle a security risk in software, but security software also needs to be secure.  
 
-Software security is one of the 'qualities' of software. Therefore, it is not surprising that secure software can be described by extending the notion of good quality. Security could be said to be "robust quality".
+Software security is one of the 'qualities' of software. Therefore, it is not surprising that secure software can be described by extending the notion of good quality. Security could be said to be "robust quality".  
 
-A key point is that security is quality against an active attacker. Therefore, traditional quality assurance does not always perform well enough. Active attackers will try to exploit the weakest (e.g., the least tested) areas.
+A key point is that security is quality against an active attacker. Therefore, traditional quality assurance does not always perform well enough. Active attackers will try to exploit the weakest (e.g., the least tested) areas.  
 
-There are a lot of ways in which to (try to) ensure that software has no vulnerabilities. Every tool vendor is likely to portray their solution as the best one, or at least a necessary one. In reality, what you use depends on your culture, budget, language / environment / frameworks, skills, and time.
+There are a lot of ways in which to (try to) ensure that software has no vulnerabilities. Every tool vendor is likely to portray their solution as the best one, or at least a necessary one. In reality, what you use depends on your culture, budget, language / environment / frameworks, skills, and time.  
 
 
 
-### Pursuing cybersecurity maturity at financial institutions"  ###
+### Pursuing cybersecurity maturity at financial institutions"  
 [Deloitte and FS-ISAC survey spotlights key traits among more advanced risk managers]  
 By Sam Friedman (United States) & Nikhil Gokhale (India)  
 [https://www2.deloitte.com/insights/us/en/industry/financial-services/cybersecurity-maturity-financial-institutions-cyber-risk.html](https://www2.deloitte.com/insights/us/en/industry/financial-services/cybersecurity-maturity-financial-institutions-cyber-risk.html)  
@@ -437,63 +438,63 @@ By Sam Friedman (United States) & Nikhil Gokhale (India)
 Security teams must continuously strive to fulfill their fiduciary and regulatory responsibilities, while meeting rising expectations for consumer privacy and innovative business solutions.  
 This is a material challenge as global financial services enterprises extend their businesses & supporting technology operations into a diverse and expanding ecosystem of Internet-enabled platforms and services.  
 
-Deloitte has worked for the past 2 years with the Financial Services Information Sharing and Analysis Center (FS-ISAC) to survey members on how they are confronting these cyber challenges.  Many North American global financial services enterprises are FSISAC members.
+Deloitte has worked for the past 2 years with the Financial Services Information Sharing and Analysis Center (FS-ISAC) to survey members on how they are confronting these cyber challenges.  Many North American global financial services enterprises are FSISAC members.  
 
-"Enterprise Risk Management at Principal"
-Why and how we identify and manage risk across the company
-"As you identify and understand risks, you can make better, more informed
-decisions about which ones are worth taking and which need to be kept in check
-at all costs." (p. 3, /sites/intranet/bu/Risk/Documents/Enterprise%20Risk%20Mgmt/ERM%20Booklet.pdf)
+"Enterprise Risk Management at ________"  
+Why and how we identify and manage risk across the company  
+"As you identify and understand risks, you can make better, more informed  
+decisions about which ones are worth taking and which need to be kept in check  
+at all costs." (p. 3, /sites/intranet/bu/Risk/Documents/Enterprise%20Risk%20Mgmt/ERM%20Booklet.pdf)  
 
 Why is it important to manage risk well?
-• Our customers rely on it.
-• Our shareholders expect it.
-• Regulators demand it.
-• Rating agencies look for it.
-( p. 5, /sites/intranet/bu/Risk/Documents/Enterprise%20Risk%20Mgmt/ERM%20Booklet.pdf)
+• Our customers rely on it.  
+• Our shareholders expect it.  
+• Regulators demand it.  
+• Rating agencies look for it.  
+( p. 5, /sites/intranet/bu/Risk/Documents/Enterprise%20Risk%20Mgmt/ERM%20Booklet.pdf) 
 
-1. Investment and market risk
-a. Credit risk
-b. Interest rate risk
-c. Equity market risk
-d. Inflation risk
-e. Foreign exchange risk
-f. Liquidity risk
-g. Real estate risk
-2. Product / pricing risk
-a. Mortality/longevity risk
-b. Morbidity risk
-c. Policyholder behavior risk
-3. Operational risk
-a. Fraud risk
-b. Employment practices & workplace safety risk
-c. Business practice risk
-d. Execution, delivery and process management risk
-e. Damage to physical assets risk
-f. Business disruption & system failure risk
-4. Business risk
-a. Reputation risk
-b. Regulatory & accounting change risk
-c. Strategic risk
-(p. 6, /sites/intranet/bu/Risk/Documents/Enterprise%20Risk%20Mgmt/ERM%20Booklet.pdf and p. 1, /gfr/docs/riskmanagementatpfg.pdf)
+1. Investment and market risk  
+ a. Credit risk  
+ b. Interest rate risk  
+ c. Equity market risk  
+ d. Inflation risk  
+ e. Foreign exchange risk  
+ f. Liquidity risk  
+ g. Real estate risk  
+2. Product / pricing risk  
+ a. Mortality/longevity risk  
+ b. Morbidity risk  
+ c. Policyholder behavior risk  
+3. Operational risk  
+ a. Fraud risk  
+ b. Employment practices & workplace safety risk  
+ c. Business practice risk  
+ d. Execution, delivery and process management risk  
+ e. Damage to physical assets risk  
+ f. Business disruption & system failure risk  
+4. Business risk  
+ a. Reputation risk  
+ b. Regulatory & accounting change risk  
+ c. Strategic risk  
+(p. 6, /sites/intranet/bu/Risk/Documents/Enterprise%20Risk%20Mgmt/ERM%20Booklet.pdf and p. 1, /gfr/docs/riskmanagementatpfg.pdf)  
 
 
 ### Machine Learning/AI Attack families  
-DeepFool  
-Fast gradient method  
-Basic iterative method  
-Projected gradient descent  
-Jacobian saliency map  
-Universal perturbation  
-Virtual adversarial method  
-C&W L_2 and L_inf attacks  
-NewtonFool  
-Elastic net attack  
-Spatial transformations attack  
-Query-efficient black-box attack  
-Zeroth-order optimization attack  
-Decision-based attack  
-Adversarial patch  
+ * DeepFool  
+ * Fast gradient method  
+ * Basic iterative method  
+ * Projected gradient descent  
+ * Jacobian saliency map  
+ * Universal perturbation  
+ * Virtual adversarial method  
+ * C&W L_2 and L_inf attacks  
+ * NewtonFool  
+ * Elastic net attack  
+ * Spatial transformations attack  
+ * Query-efficient black-box attack  
+ * Zeroth-order optimization attack  
+ * Decision-based attack  
+ * Adversarial patch  
 
 
 Attacks often occur at application interfaces.  
@@ -530,30 +531,30 @@ Mobile Risks [An ecosystem characterized by organizations (large & small) whose 
 Mobile Security Threat Categories
 ---------------------------------
  * Malware Targeting Mobile Platforms  
-Mobile Spoofing / SIM Cloning (Recently, $2M stolen for $580 payment to Telecom employee)  
-Inadequate Mobile Fraud Controls  
-Rogue Applications  
-Misrepresented Applications  
-'Infected' Applications  
-Web Browser Attacks  
-Marketplace Misrepresentation  
-SMS Redirection – Hijack or Exploit Forwarding  
-Vendor Breach  
-Transport or Protocol Gaps (API implementation matters -- Need SSL everywhere & mutual auth)  
-User Device Management  
-Platform Specific Attacks  
-Device Specific Attacks  
+ * Mobile Spoofing / SIM Cloning (Recently, $2M stolen for $580 payment to Telecom employee)  
+ * Inadequate Mobile Fraud Controls  
+ * Rogue Applications  
+ * Misrepresented Applications  
+ * 'Infected' Applications  
+ * Web Browser Attacks  
+ * Marketplace Misrepresentation  
+ * SMS Redirection – Hijack or Exploit Forwarding  
+ * Vendor Breach  
+ * Transport or Protocol Gaps (API implementation matters -- Need SSL everywhere & mutual auth)  
+ * User Device Management  
+ * Platform Specific Attacks  
+ * Device Specific Attacks  
 
 Fraud Scenarios  
 ---------------  
-Malware Attack  
-Phishing/Smishing/Vishing  
-Impersonation/Hijacking  
-Identity Theft  
-System Breach  
-Browser Attacks  
-Marketplace Misrepresentation  
-User/Merchant/Employee/False ID  
+ * Malware Attack  
+ * Phishing/Smishing/Vishing  
+ * Impersonation/Hijacking  
+ * Identity Theft  
+ * System Breach  
+ * Browser Attacks  
+ * Marketplace Misrepresentation  
+ * User/Merchant/Employee/False ID  
 
 
 Sample Fraud Scenario: Account Takeover (Mobile Transfer)  
@@ -569,5 +570,5 @@ While ecosystem-driven business depends on interconnectedness, those connections
 
 The Institutes RiskBlock Alliance, a blockchain consortium representing 31 risk management and insurance companies, is building an open, secure ecosystem that any and every insurance and risk management company can plug into.  
 Only a quarter (26 percent) of insurance executives know for sure that their ecosystem partners are working as diligently as they are to be compliant and resilient with regard to security.  
-["Future of IT:  Art of the Possible." Accenture presentation to Principal Financial, April 2019]  
+["Future of IT:  Art of the Possible." Accenture presentation to _________________, April 2019]  
 
