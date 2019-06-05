@@ -23,11 +23,11 @@ START "DZone surey of 50 security professionals."
 
 SUMMARY:  
 -------  
- * INVENTORY. We cannot understand our risk load until we have accurate data about the infrastructure and processes that represent our organizations.  This is sometimes also called "visibility," "know your environment," or "know your data."    
- * EVENT TRANSPARENCY. Organizations need access to and an understanding of inventory, attack vectors, and security events to inform security decision-making.  Simply responding to successful attack is not a sustainable goal.   
- * CONTEXTUAL AWARENESS. Effective threat hunting and incident identification/triage/response require events-in-context requires application, infrastructure & operations documentation, modern SIM integration, as well as real-time access to data, logging systems, and penetration test & code assessment results.  Contextual awareness is also essential for effective risk management at application/system architecture, design, and development time.   
- * HARDENING.  Our attack surface needs to resist the activities of all hostile actors.  
- * PRIORITIZE. All organizations have more risks than can be addressed at any given time.  Most organizations are in the risk-taking business.  
+ * **INVENTORY**. We cannot understand our risk load until we have accurate data about the infrastructure and processes that represent our organizations.  This is sometimes also called "visibility," "know your environment," or "know your data."    
+ * **EVENT TRANSPARENCY**. Organizations need access to and an understanding of inventory, attack vectors, and security events to inform security decision-making.  Simply responding to successful attack is not a sustainable goal.   
+ * **CONTEXTUAL AWARENESS**. Effective threat hunting and incident identification/triage/response require events-in-context requires application, infrastructure & operations documentation, modern SIM integration, as well as real-time access to data, logging systems, and penetration test & code assessment results.  Contextual awareness is also essential for effective risk management at application/system architecture, design, and development time.   
+ * **HARDENING**.  Our attack surface needs to resist the activities of all hostile actors.  
+ * **PRIORITIZE**. All organizations have more risks than can be addressed at any given time.  Most organizations are in the risk-taking business.  
 
 SUPPORTING DISCUSSION:
 ---------------------
@@ -277,10 +277,11 @@ FRS uses the employer-supplied demographic data to help identify given individua
 
 FRS provides 401(k) services to thousands of companies and millions of employees.
 While every company is unique, the life-cycle of any given employee's relationship with FRS tends to fall along a number of continuums.  For example:    
-    Active <------------------------------------> Passive  
+```    Active <------------------------------------> Passive  
     Engaged <-----------------------------------> Disengaged  
     Financial planner <-------------------------> Not a planner  
     Tech savvy <--------------------------------> Tech challenged  
+```
 
 Tech savvy, active, engaged, financial planners tend to explore & interact with our platforms as soon as they are available.  
 As a result, the demographic data about them tends to be accurate, and initial on-boarding into our systems tended to go smoothly and result in relatively safer Internet-facing retirement participant accounts.  
@@ -293,7 +294,7 @@ Regardless of those challenges, FRS is paid fees for this business and possesses
 
 ### ACTORS & COMPONENTS:  
 -------------------  
-Identity data brokers               Contract 'Quality Assurance'  
+```Identity data brokers               Contract 'Quality Assurance'  
 
                             Attacker  
              
@@ -304,6 +305,7 @@ FRS web site        FRS call centers        FRS 'back room' employee processes
 FRS applications    FGFG applications  
 
 FRS data stores    FGFG APIs --> FGFG data stores  
+```
 
 ### Key Infrastructure and Operations Assumptions and Realities: ### 
 -----------------------------------------------------------  
