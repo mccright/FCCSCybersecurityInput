@@ -295,7 +295,8 @@ Regardless of those challenges, FRS is paid fees for this business and possesses
 ### ACTORS & COMPONENTS:  
 -------------------  
 
-```Identity data brokers               Contract Quality Assurance  
+```  
+Identity data brokers               Contract Quality Assurance  
   
                             Attacker  
   
