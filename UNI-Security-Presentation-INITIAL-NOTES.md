@@ -224,37 +224,36 @@ OASIS
 
 EXAMPLE - NIST 800-53 Control Families:
 -------------------------------------
-Access Control
-Audit And Accountability
-Awareness And Training
-Configuration Management
-Contingency Planning
-Identification And Authentication
-Incident Response
-Maintenance
-Media Protection
-Personnel Security
-Physical And Environmental Protection
-Planning
-Program Management
-Risk Assessment
-Security Assessment And Authorization
-System And Communications Protection
-System And Information Integrity
-System And Services Acquisition
+[https://github.com/mccright/rand-notes/blob/master/NIST-Pub-800-53-Rev4-Controls-List.htm](https://github.com/mccright/rand-notes/blob/master/NIST-Pub-800-53-Rev4-Controls-List.htm)
+Access Control  
+Audit And Accountability  
+Awareness And Training  
+Configuration Management  
+Contingency Planning  
+Identification And Authentication  
+Incident Response  
+Maintenance  
+Media Protection  
+Personnel Security  
+Physical And Environmental Protection  
+Planning  
+Program Management  
+Risk Assessment  
+Security Assessment And Authorization  
+System And Communications Protection  
+System And Information Integrity  
+System And Services Acquisition  
 
 
 LEARNER RESOURCES:
 -----------------
-"Threat Modeling Cheat Sheet (OWASP)" https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md
-Mitre Att&ck threat list https://mitre.github.io/attack-navigator/enterprise/.  ATT&CK is a catalog of techniques and tactics that describe post-compromise adversary behavior on typical enterprise IT environments. The core use cases involve using the catalog to analyze, triage, compare, describe, relate, and share post-compromise adversary behavior.  See the descriptions of all 244 Attack Techniques at: https://attack.mitre.org/techniques/enterprise/; and the 13 more that are specific to mobile environments at: https://attack.mitre.org/tactics/mobile/.
-For a Q1 2019 Thread Overview using the MITRE ATT&CK framework, see: https://www.rapid7.com/research/report/2019-q1-threat-report/#MITRE-ATTCK-Framework
+"Threat Modeling Cheat Sheet (OWASP)" [https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md)  
+Mitre Att&ck threat list https://mitre.github.io/attack-navigator/enterprise/.  ATT&CK is a catalog of techniques and tactics that describe post-compromise adversary behavior on typical enterprise IT environments. The core use cases involve using the catalog to analyze, triage, compare, describe, relate, and share post-compromise adversary behavior.  See the descriptions of all 244 Attack Techniques at: https://attack.mitre.org/techniques/enterprise/; and the 13 more that are specific to mobile environments at: [https://attack.mitre.org/tactics/mobile/](https://attack.mitre.org/tactics/mobile/).  
+For a Q1 2019 Thread Overview using the MITRE ATT&CK framework, see: [https://www.rapid7.com/research/report/2019-q1-threat-report/#MITRE-ATTCK-Framework](https://www.rapid7.com/research/report/2019-q1-threat-report/#MITRE-ATTCK-Framework)  
 
 
 
-
-
-Scenario #1: On-Boarding Customers at Foremost Global Financial Group (FGFG)
+Scenario #1: On-Boarding Customers at 'Foremost Global Financial Group' (FGFG)
 ----------------------------------------------------------------------
 Foremost is a global financial services enterprise.  
 FGFG provides organizations and individuals investment, insurance, retirement products and services.  
