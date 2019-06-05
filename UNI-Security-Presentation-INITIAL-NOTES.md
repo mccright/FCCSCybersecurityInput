@@ -1,17 +1,18 @@
+﻿
+###If the presentation were this week,
+ I would use the following cybersecurity incidents as an introduction (they need to be 'current' and there should be no trouble finding 'current' incidents whenever the session is presented):  
 
-If the presentation were this week, I would use the following cybersecurity incidents as an introduction (they need to be 'current' and there should be no trouble finding 'current' incidents whenever the session is presented):
+ * Last Thursday Microsoft released security updates for some out-of-support systems to fix a bug that could be weaponized as a worm if exploited.
+ [https://www.darkreading.com/endpoint/microsoft-patches-wormable-vuln-in-windows-7-2003-xp-server-2008/d/d-id/1334709](https://www.darkreading.com/endpoint/microsoft-patches-wormable-vuln-in-windows-7-2003-xp-server-2008/d/d-id/1334709)
+ This is a critical unauthenticated, remote code execution flaw in Remote Desktop Services (RDS, also known as Terminal Services) which affects some older versions of Windows
+ This type of vulnerability supports malware propagating across vulnerable machines -- 'worm' behavior.  
 
-Last Thursday Microsoft released security updates for some out-of-support systems to fix a bug that could be weaponized as a worm if exploited.
-https://www.darkreading.com/endpoint/microsoft-patches-wormable-vuln-in-windows-7-2003-xp-server-2008/d/d-id/1334709
-This is a critical unauthenticated, remote code execution flaw in Remote Desktop Services (RDS, also known as Terminal Services) which affects some older versions of Windows
-This type of vulnerability supports malware propagating across vulnerable machines -- 'worm' behavior.
+ * Last Wednesday, more than a week after a ransomware cyberattack hobbled Baltimore’s computer network, city officials still say they can’t predict when its operations will be up and running...
+ [https://wtop.com/baltimore/2019/05/8-days-after-cyberattack-baltimores-network-still-hobbled/](https://wtop.com/baltimore/2019/05/8-days-after-cyberattack-baltimores-network-still-hobbled/)
+ They still cannot support financial or property transactions or interact with anyone via email.  
 
-Last Wednesday, more than a week after a ransomware cyberattack hobbled Baltimore’s computer network, city officials still say they can’t predict when its operations will be up and running...
-https://wtop.com/baltimore/2019/05/8-days-after-cyberattack-baltimores-network-still-hobbled/
-They still cannot support financial or property transactions or interact with anyone via email.
-
-Last Tuesday, the more than 1.5 billion WhatsApp users learned that the application's end-to-end encryption failed to stop attacks against its audio call features that allowed attackers to install malware & conduct surveillance on exploited users -- even when they did not even answer the attacker's call.
-https://www.wired.co.uk/article/whats-app-hacked
+ * Last Tuesday, the more than 1.5 billion WhatsApp users learned that the application's end-to-end encryption failed to stop attacks against its audio call features that allowed attackers to install malware & conduct surveillance on exploited users -- even when they did not even answer the attacker's call.
+ [https://www.wired.co.uk/article/whats-app-hacked](https://www.wired.co.uk/article/whats-app-hacked)  
 
 "Most Important Security Elements."
 https://dzone.com/articles/most-important-security-elements-part-1
