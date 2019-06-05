@@ -294,16 +294,16 @@ Regardless of those challenges, FRS is paid fees for this business and possesses
 
 ### ACTORS & COMPONENTS:  
 -------------------  
-```Identity data brokers               Contract 'Quality Assurance'  
-
+```Identity data brokers               Contract "Quality Assurance"  
+  
                             Attacker  
-             
+  
 Authorized End user  
-
+  
 FRS web site        FRS call centers        FRS 'back room' employee processes  
-
+  
 FRS applications    FGFG applications  
-
+  
 FRS data stores    FGFG APIs --> FGFG data stores  
 ```
 
