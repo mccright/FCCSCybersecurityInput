@@ -15,10 +15,9 @@
  [https://www.wired.co.uk/article/whats-app-hacked](https://www.wired.co.uk/article/whats-app-hacked)  
 
 #### FROM: "Most Important Security Elements."   
-[https://dzone.com/articles/most-important-security-elements-part-1](https://dzone.com/articles/most-important-security-elements-part-1)
-[https://dzone.com/articles/most-important-security-elements-part-2](https://dzone.com/articles/most-important-security-elements-part-2)
-Visibility, mitigation, prioritization, and encryption — these are the most important elements to security right now.  
-By Tom Smith, May. 24, 2019  
+[https://dzone.com/articles/most-important-security-elements-part-1](https://dzone.com/articles/most-important-security-elements-part-1) and  
+[https://dzone.com/articles/most-important-security-elements-part-2](https://dzone.com/articles/most-important-security-elements-part-2)  
+Visibility, mitigation, prioritization, and encryption — these are the most important elements to security right now.  By Tom Smith, May. 24, 2019  
 
 START "DZone surey of 50 security professionals."  
 
@@ -206,10 +205,13 @@ Why is it important to manage risk well?  At the highest level:
 
 What can you do?  
 ---------------  
+Pen Testing  
 Threat Intelligence  
 Threat hunting  
 Red Team Exercises  
 Red-vs-Blue Team Exercises  
+...Another approach is to adopt or adapt one of the available frameworks.  
+
 
 Frameworks to help you evolve your cybersecurity program:  
 --------------------------------------------------------
@@ -224,7 +226,7 @@ Frameworks to help you evolve your cybersecurity program:
 
 EXAMPLE - NIST 800-53 Control Families:
 -------------------------------------
-[https://github.com/mccright/rand-notes/blob/master/NIST-Pub-800-53-Rev4-Controls-List.htm](https://github.com/mccright/rand-notes/blob/master/NIST-Pub-800-53-Rev4-Controls-List.htm)
+[https://github.com/mccright/rand-notes/blob/master/NIST-Pub-800-53-Rev4-Controls-List.htm](https://github.com/mccright/rand-notes/blob/master/NIST-Pub-800-53-Rev4-Controls-List.htm)  
 Access Control  
 Audit And Accountability  
 Awareness And Training  
@@ -251,6 +253,8 @@ LEARNER RESOURCES:
 Mitre Att&ck threat list https://mitre.github.io/attack-navigator/enterprise/.  ATT&CK is a catalog of techniques and tactics that describe post-compromise adversary behavior on typical enterprise IT environments. The core use cases involve using the catalog to analyze, triage, compare, describe, relate, and share post-compromise adversary behavior.  See the descriptions of all 244 Attack Techniques at: https://attack.mitre.org/techniques/enterprise/; and the 13 more that are specific to mobile environments at: [https://attack.mitre.org/tactics/mobile/](https://attack.mitre.org/tactics/mobile/).  
 For a Q1 2019 Thread Overview using the MITRE ATT&CK framework, see: [https://www.rapid7.com/research/report/2019-q1-threat-report/#MITRE-ATTCK-Framework](https://www.rapid7.com/research/report/2019-q1-threat-report/#MITRE-ATTCK-Framework)  
 
+
+======================================================================  
 
 
 Scenario #1: On-Boarding Customers at 'Foremost Global Financial Group' (FGFG)
