@@ -1,3 +1,11 @@
+```
+                              _______________________
+                             / ____/ ____/ ____/ ___/
+                            / /_  / /   / /    \__ \
+                           / __/ / /___/ /___ ___/ /
+                          /_/    \____/\____//____/
+
+```
 # FCCSCybersecurityInput  
 
 These are some of my initial random notes while reading for an FCCS session on cybersecurity.  
