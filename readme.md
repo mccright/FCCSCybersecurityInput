@@ -24,11 +24,11 @@ Reminder
 Quick setup — if you’ve done this kind of thing before  
 or	
 ```
-echo git clone https://github.com/mccright/FCCSCybersecurityInput.git  
+git clone https://github.com/mccright/FCCSCybersecurityInput.git  
 ```
 and  
 ```
-echo git clone https://github.com/mccright/FCCSCybersecurityInput.wiki.git  
+git clone https://github.com/mccright/FCCSCybersecurityInput.wiki.git  
 ```
 
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.  
