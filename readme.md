@@ -23,18 +23,18 @@ Reminder
 --------
 Quick setup — if you’ve done this kind of thing before  
 or	
-```git clone [https://github.com/mccright/FCCSCybersecurityInput.git](https://github.com/mccright/FCCSCybersecurityInput.git)  
+```git clone https://github.com/mccright/FCCSCybersecurityInput.git  
 ```
 and  
-```git clone [https://github.com/mccright/FCCSCybersecurityInput.wiki.git](https://github.com/mccright/FCCSCybersecurityInput.wiki.git)  
+```git clone https://github.com/mccright/FCCSCybersecurityInput.wiki.git  
 ```
 
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.  
 
-##…or create a new repository on the command line  
-```echo "# FCCSCybersecurityInput" >> README.md  
+…or create a new repository on the command line  
+```echo "# FCCSCybersecurityInput" >> READMEtoo.md  
 git init  
-git add README.md  
+git add READMEtoo.md  
 git commit -m "first commit"  
 git remote add origin https://github.com/mccright/FCCSCybersecurityInput.git  
 git push -u origin master  
