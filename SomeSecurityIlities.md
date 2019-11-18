@@ -33,10 +33,11 @@
  d. Security -- Configurability  
  e. Security -- Maintainability  
 15. Security -- Anonymity (Anonymity and accountability are extremes on the linkability continuum)  
-*Those below seem less generally applicable in some industries, but still sometimes relevant*  
+*Those below seem less generally applicable in some industries, but still highly relevant -- even core -- to others*  
 16. Security -- Unobservability  
 17. Security -- Pseudonymity  
 18. Security -- Unlinkability (Attacker cannot identify linkage after observing items of interest, that were not already known prior to that observation.)  
+*And finally, the issues below need more work to tease out their relevant 'ilities.  Let me know if you have some repairs.*  
 19. Security - (need an "ility" here) Self-Preservation  
 20. Security - (need an "ility" here) Compartmentalization  
 21. Security - (need an "ility" here) Procedures  
