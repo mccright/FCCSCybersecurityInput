@@ -8,7 +8,7 @@
 ```
 # FCCSCybersecurityInput  
 
-In response to a question about cybersecurity from staff involved a course led by University of Northern Iowa about foundational concepts of computer science, I assembled these notes about cybersecurity to support introducing some highlights into that computer science curriculum.
+This content was assembled in response to a question about cybersecurity from staff involved in a public school teacher training course led by University of Northern Iowa.  They wanted some input about cybersecurity to support highlighting the topic in their 'foundational concepts of computer science' curriculum.
 
 These are some of my initial random notes while reading for an FCCS session on cybersecurity.  
 ...notes and copies of quotes.  
