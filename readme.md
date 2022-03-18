@@ -50,3 +50,4 @@ git push -u origin master
 
 2021-11-30: Several updates to [https://github.com/mccright/FCCSCybersecurityInput/wiki](https://github.com/mccright/FCCSCybersecurityInput/wiki)  
 2022-03-18: Updated [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News) with a story about more than 6,600 keys/secrets found in Samsung source code.  
+2022-03-18: Updated [https://github.com/mccright/FCCSCybersecurityInput/wiki/What-Do-You-Have-To-Protect%3F](https://github.com/mccright/FCCSCybersecurityInput/wiki/What-Do-You-Have-To-Protect%3F) with a current estimate of financial losses due to cybercrime.  
