@@ -48,6 +48,7 @@ git push -u origin master
 git push -u origin master  
 ```
 
+2022-05-17: Added a couple bullets to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News): Unauthorized unlocking & access to keyless cars, and Installing malware on *powered off* iPhones.
 2022-03-24: Added a bullet about the Okta breach to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2022-03-18: Updated [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News) with a story about more than 6,600 keys/secrets found in Samsung source code.  
 2022-03-18: Updated [https://github.com/mccright/FCCSCybersecurityInput/wiki/What-Do-You-Have-To-Protect%3F](https://github.com/mccright/FCCSCybersecurityInput/wiki/What-Do-You-Have-To-Protect%3F) with a current estimate of financial losses due to cybercrime.  
