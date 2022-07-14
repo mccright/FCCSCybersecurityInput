@@ -49,4 +49,4 @@
 27. Security - (need an "ility" here) Risk Management (life-cycle)  
 28. Security - (need an "ility" here) Security Policy & Standards  
 
-Matt McCright collected and assembled the above material from numerous sources over the last decade.  This list is not an attempt to identify what is important for every project, rather to provide a resource that project architects could use when they attempt to make the hard choices about what are the most important for the project at hand.  
+Matt McCright collected and assembled the above material from numerous sources over the last decade.  This list is not an attempt to identify what is important for every project, rather to provide a resource that project participants (*when engaged in planning, architecting, designing, product or component evaluation, coding, etc.*) could use when they attempt to make the hard choices about what are the most important for the project at hand.  
