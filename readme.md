@@ -49,6 +49,7 @@ git push -u origin master
 ```
 
 ### REVISIONS AND UPDATES:  
+2022-08-17: Added PyPI supply-chain attacks bullets and a link to Checkpoint research on hostile software to "[History / Recent Cybersecurity Issues In The News] (https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)"  
 2022-07-27: Added the "Entrust" and "JusTalk" entries to "[History / Recent Cybersecurity Issues In The News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)"  
 2022-07-14: Added pointer to CISA's KEV list to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Why-Should-I-Care](https://github.com/mccright/FCCSCybersecurityInput/wiki/Why-Should-I-Care)  
 2022-05-17: Added a couple bullets to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News): Unauthorized unlocking & access to keyless cars, and Installing malware on *powered off* iPhones.  
