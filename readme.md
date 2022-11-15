@@ -49,7 +49,8 @@ git push -u origin master
 ```
 
 ### REVISIONS AND UPDATES:  
-2022-11-10: Added a bullet for the story about Trustcor (and its circle of related companies) [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
+Added a bullet, content and links about the recent and ongoing implosion of Sam Bankman-Fried's FTX, et. al. to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
+2022-11-10: Added a bullet for the story about Trustcor (and its circle of related companies) to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2022-11-03: Added a bullet for software supply chain security company Phylum's discovery of compromised Python libraries [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2022-09-16: Added a bullet about the mid-Sept Uber breach [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News#some-relatively-random-cybersecurity-incidents-as-an-introduction)  
 2022-08-17: Added PyPI supply-chain attacks bullets and a link to Checkpoint research on hostile software to "[History / Recent Cybersecurity Issues In The News] (https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)"  
