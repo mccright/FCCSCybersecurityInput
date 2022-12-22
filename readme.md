@@ -49,6 +49,7 @@ git push -u origin master
 ```
 
 ### REVISIONS AND UPDATES:  
+2022-12-21: Added the Teqtivity / Uber data breach and leak. [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2022-12-11: Added a bullet highlighting NISTIR  8286D: "Using Business Impact Analysis to Inform Risk Prioritization and Response." highlighting the intersection of BIA and focused cybersecurity risk management processes to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Frameworks-to-Help-You-Evolve-Your-Cybersecurity-Program](https://github.com/mccright/FCCSCybersecurityInput/wiki/Frameworks-to-Help-You-Evolve-Your-Cybersecurity-Program)  
 2022-11-15: Added a bullet, content and links about the recent and ongoing implosion of Sam Bankman-Fried's FTX, et. al. to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2022-11-10: Added a bullet for the story about Trustcor (and its circle of related companies) to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
