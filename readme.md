@@ -49,6 +49,8 @@ git push -u origin master
 ```
 
 ### REVISIONS AND UPDATES:  
+2023-01-20: Added a bullet about malware-enabled theft from NFT GOD as described by Molly White [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
+2023-01-17: Added a bullet about Russian hackers targeting a Ukrainian press briefing about cyberattacks. [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2022-12-24: Added the Suffolk County log4j bullet [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2022-12-21: Added the Teqtivity / Uber data breach and leak. [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2022-12-11: Added a bullet highlighting NISTIR  8286D: "Using Business Impact Analysis to Inform Risk Prioritization and Response." highlighting the intersection of BIA and focused cybersecurity risk management processes to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Frameworks-to-Help-You-Evolve-Your-Cybersecurity-Program](https://github.com/mccright/FCCSCybersecurityInput/wiki/Frameworks-to-Help-You-Evolve-Your-Cybersecurity-Program)  
