@@ -16,6 +16,7 @@
  f. Security -- Representativeness   
  g. Security -- Predictability  
  h. Security -- Reliability (Not-contaminated, industry-accepted tools & techniques)  
+ i. Security -- Stability (*as in 'reliably measurable' under given conditions, not a reference to 'sameness'*)
 9. Security -- (need an "ility" here) Least Privilege  
 10. Security -- Accountability  
 11. Security -- Non-deniability (Non-repudiation)  
@@ -32,6 +33,7 @@
  c. Security -- Customizability  
  d. Security -- Configurability  
  e. Security -- Maintainability  
+ f. Security -- Stability (*as in a context-relevant reasonably 'reliably measurable', as change may be a design expectation*)
 15. Security -- Anonymity (Anonymity and accountability are extremes on the linkability continuum)  
 *Those below seem less generally applicable in some industries, but still highly relevant -- even core -- to others*  
 16. Security -- Unobservability  
