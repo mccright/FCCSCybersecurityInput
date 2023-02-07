@@ -15,7 +15,7 @@ These are some of my initial random notes while reading for an FCCS session on c
 Nothing here is unique or new.  
 There are no academic-quality citations -- only titles, authors (where known) and links to source resources.  
 
-See the wiki [https://github.com/mccright/FCCSCybersecurityInput/wiki](https://github.com/mccright/FCCSCybersecurityInput/wiki)  
+**See the wiki [https://github.com/mccright/FCCSCybersecurityInput/wiki](https://github.com/mccright/FCCSCybersecurityInput/wiki)**  
 
 Expect this content to evolve.  
 
@@ -49,6 +49,7 @@ git push -u origin master
 ```
 
 ### REVISIONS AND UPDATES:  
+2023-02-06: Edited the 'heuristics' paragraph on [https://github.com/mccright/FCCSCybersecurityInput/wiki#note-about-security](https://github.com/mccright/FCCSCybersecurityInput/wiki#note-about-security) and Updated/added a couple 'ilities' in [https://github.com/mccright/FCCSCybersecurityInput/blob/master/SomeSecurityIlities.md](https://github.com/mccright/FCCSCybersecurityInput/blob/master/SomeSecurityIlities.md)  
 2023-01-20: Added a bullet about malware-enabled theft from NFT GOD as described by Molly White [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2023-01-17: Added a bullet about Russian hackers targeting a Ukrainian press briefing about cyberattacks. [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2022-12-24: Added the Suffolk County log4j bullet [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
