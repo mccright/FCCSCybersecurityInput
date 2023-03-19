@@ -49,6 +49,7 @@ git push -u origin master
 ```
 
 ### REVISIONS AND UPDATES:  
+2023-03-19: Added some bullets about risks that come with *extra* software that is too often installed when you add an application or game on [https://github.com/mccright/FCCSCybersecurityInput/wiki/Characterized-by-Connectivity](https://github.com/mccright/FCCSCybersecurityInput/wiki/Characterized-by-Connectivity)  
 2023-02-06: Edited the 'heuristics' paragraph on [https://github.com/mccright/FCCSCybersecurityInput/wiki#note-about-security](https://github.com/mccright/FCCSCybersecurityInput/wiki#note-about-security) and Updated/added a couple 'ilities' in [https://github.com/mccright/FCCSCybersecurityInput/blob/master/SomeSecurityIlities.md](https://github.com/mccright/FCCSCybersecurityInput/blob/master/SomeSecurityIlities.md)  
 2023-01-20: Added a bullet about malware-enabled theft from NFT GOD as described by Molly White [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2023-01-17: Added a bullet about Russian hackers targeting a Ukrainian press briefing about cyberattacks. [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
