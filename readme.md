@@ -49,6 +49,7 @@ git push -u origin master
 ```
 
 ### REVISIONS AND UPDATES:  
+2023-05-19: Added a bullet about biometric authentication bypass on Android mobile devices called ```BrutePrint```  [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)
 2023-05-19: Updated a table on Business Email Compromise activity and impacts, and added a pointer to a new report on BEC from Microsoft [https://github.com/mccright/FCCSCybersecurityInput/wiki/Why-Should-I-Care](https://github.com/mccright/FCCSCybersecurityInput/wiki/Why-Should-I-Care)
 2023-04-01: Added a bullet a ransomware attack against the  U.S. Marshall's Service Technical Operations Group (TOG) [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2023-03-19: Added some bullets about risks that come with *extra* software that is too often installed when you add an application or game on [https://github.com/mccright/FCCSCybersecurityInput/wiki/Characterized-by-Connectivity](https://github.com/mccright/FCCSCybersecurityInput/wiki/Characterized-by-Connectivity)  
