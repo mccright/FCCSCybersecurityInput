@@ -49,6 +49,8 @@ git push -u origin master
 ```
 
 ### REVISIONS AND UPDATES:  
+2023-09-27: Added a bullet about juveniles hacking in increasing numbers  [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
+2023-09-27: Added a couple cisa.gov resources on "Secure by Design" and "CISA Cybersecurity Best Practices." to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Systems-Engineering-Seems-to-Show-a-Path](https://github.com/mccright/FCCSCybersecurityInput/wiki/Systems-Engineering-Seems-to-Show-a-Path)  
 2023-08-20: Added a bullet about issues in government's identity lifecycle needs [https://github.com/mccright/FCCSCybersecurityInput/wiki/Characterized-by-Connectivity](https://github.com/mccright/FCCSCybersecurityInput/wiki/Characterized-by-Connectivity)  
 2023-08-02: Added a bullet about the results of password strength testing at the U.S. Interior Department  [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2023-05-19: Added a bullet about biometric authentication bypass on Android mobile devices called ```BrutePrint```  [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
