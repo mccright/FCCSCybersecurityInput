@@ -34,7 +34,7 @@ git clone https://github.com/mccright/FCCSCybersecurityInput.wiki.git
 
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.  
 
-…or create a new repository on the command line  
+…or create a new repository on the command line (*here is an example with my username and this repository, **change those** as appropriate for your situation*)  
 ```echo "# FCCSCybersecurityInput" >> READMEtoo.md  
 git init  
 git add READMEtoo.md  
@@ -43,7 +43,7 @@ git remote add origin https://github.com/mccright/FCCSCybersecurityInput.git
 git push -u origin master  
 ```
 
-##…or push an existing repository from the command line  
+…or push an existing repository from the command line (*here is another example with my username and this repository, **change those** as appropriate for your situation*)  
 ```git remote add origin https://github.com/mccright/FCCSCybersecurityInput.git  
 git push -u origin master  
 ```
