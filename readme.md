@@ -51,6 +51,8 @@ git push -u origin master
 ```
 
 ### REVISIONS AND UPDATES:  
+2023-11-16: Added The NIST Cybersecurity Framework 2.0 (Draft) to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Frameworks-to-Help-You-Evolve-Your-Cybersecurity-Program](https://github.com/mccright/FCCSCybersecurityInput/wiki/Frameworks-to-Help-You-Evolve-Your-Cybersecurity-Program)  
+2023-10-16: Added a bullet about some Apple zero-days [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2023-09-27: Added a bullet about juveniles hacking in increasing numbers  [https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News](https://github.com/mccright/FCCSCybersecurityInput/wiki/Recent-Cybersecurity-Issues-In-The-News)  
 2023-09-27: Added a couple cisa.gov resources on "Secure by Design" and "CISA Cybersecurity Best Practices." to [https://github.com/mccright/FCCSCybersecurityInput/wiki/Systems-Engineering-Seems-to-Show-a-Path](https://github.com/mccright/FCCSCybersecurityInput/wiki/Systems-Engineering-Seems-to-Show-a-Path)  
 2023-08-20: Added a bullet about issues in government's identity lifecycle needs [https://github.com/mccright/FCCSCybersecurityInput/wiki/Characterized-by-Connectivity](https://github.com/mccright/FCCSCybersecurityInput/wiki/Characterized-by-Connectivity)  
